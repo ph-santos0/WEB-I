@@ -1,0 +1,8 @@
+:root{
+    --cor-primaria: lightblue;
+    --cor-secundaria: lightgreen;
+}
+
+body{
+    background-color: lightsalmon;
+}
