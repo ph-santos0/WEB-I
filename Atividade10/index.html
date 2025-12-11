@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerenciador de Usuários - Fetch & Modules</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Atividade 09 - Refatorada</h1>
+        <p>Recursos: Fetch API, Módulos JS e Event Delegation</p>
+    </header>
+    <main>
+        <form id="form-usuario">
+            <label for="nome">Nome</label>
+            <input type="text" id="nome" name="nome" required placeholder="Digite o nome..."><br>
+            <button type="submit">Adicionar Manualmente</button>
+        </form>
+        
+        <div style="margin: 20px 0;">
+            <button id="bt-carregar-api">🔄 Recarregar da API Externa</button>
+        </div>
+
+        <table border="1" class="tabela">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>NOME</th>
+                    <th>AÇÕES</th>
+                </tr>
+            </thead>
+            <tbody id="corpo_tabela">
+                </tbody>
+        </table>
+    </main>
+    <footer>
+        <section>
+            <p>Desenvolvimento Web I</p>
+        </section>
+    </footer>
+
+    <script type="module" src="./main.js"></script>
+</body>
+</html>
