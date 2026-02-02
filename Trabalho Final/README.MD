@@ -1,22 +1,10 @@
-<div align="center">
+# ⚠️ Repositório Migrado
 
-  <h1>⚠️ Atenção: Repositório Movido</h1>
+O conteúdo deste trabalho prático foi movido para um novo repositório dedicado.
 
-  <p>
-    O desenvolvimento, código-fonte e documentação oficial deste trabalho <br>
-    estão centralizados no repositório dedicado abaixo:
-  </p>
+Por favor, acesse a versão final e atualizada no link abaixo:
 
-  <br>
+## 👉 [https://github.com/ph-santos0/CineManager](https://github.com/ph-santos0/CineManager)
 
-  <a href="https://github.com/ph-santos0/CineManager">
-    <img src="https://img.shields.io/badge/CLIQUE_AQUI_PARA_ACESSAR_O_PROJETO-2ecc71?style=for-the-badge&logo=github&logoColor=white" alt="Acessar CineManager">
-  </a>
-
-  <br><br>
-
-  <p>
-    Por favor, desconsidere este repositório e acesse o link acima para ver a versão final.
-  </p>
-
-</div>
+---
+**Pedro Henrique Santos**
